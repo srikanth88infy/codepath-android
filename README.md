@@ -25,9 +25,7 @@ The following **optional** features are implemented:
 * [ ] Tweak the style improving the UI / UX, play with colors, images or backgrounds
 
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='http://gph.is/2cv5SeM' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
