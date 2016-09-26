@@ -26,7 +26,9 @@ The following **optional** features are implemented:
 * [ ] Tweak the style improving the UI / UX, play with colors, images or backgrounds
 
 
-<img src='http://giphy.com/gifs/bootcamp-submission-l0HlBew5xOUI8fzZC' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+## GIF
+
+The working app can be viewed at http://giphy.com/gifs/bootcamp-submission-l0HlBew5xOUI8fzZC 
 
 ## Notes
 
